@@ -1,0 +1,5 @@
+homepage: "https://www.searchstax.com/"
+documentation: "https://github.com/searchstax/gtm-custom-template"
+versions:
+  - sha: 145510823774753ae7795848c54a08c3a4fddf05 
+    changeNotes: Initial release.
